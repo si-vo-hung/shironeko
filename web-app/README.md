@@ -1,10 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Lucky Draw 
+**ReactJS Lucky Draw Simulator**
+
+<img src="https://travis-ci.com/thefiend/lucky-draw.svg?branch=master">
+<a href="https://dependabot.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/1fe7004c016a5ab641008b9579409c784eaa1725/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446570656e6461626f742d656e61626c65642d626c75652e737667" alt="Dependabot badge" data-canonical-src="https://img.shields.io/badge/Dependabot-enabled-blue.svg" style="max-width:100%;"></a>
+<a href="https://github.com/thefiend/lucky-draw/pulls"><img src="https://camo.githubusercontent.com/a5ad72c42e9333e5117b973083ab304c8a787c4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d677265656e2e737667" alt="PRs Welcome" data-canonical-src="https://img.shields.io/badge/PRs-welcome-green.svg" style="max-width:100%;"></a>
+
+
+**[Demo](https://luckydraw.me)** | **[Issues](https://github.com/thefiend/lucky-draw/issues)**
+
+Ever faced this issue whereby you need to randomly select a winner but can't seem to find a beautiful and transparent way of doing so? Here's the solution to your headache! Lucky Draw allows you to randomly choose a winner easily.
+
+This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm install`
 
 ### `npm start`
 
@@ -68,3 +78,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Acknowledgements
+* [Tabler React](https://github.com/tabler/tabler-react) - For the awesome theme.
+* [React Text Loop](https://github.com/braposo/react-text-loop) - For the beautiful random effect.
+* [Confetti](https://github.com/daniel-lundin/react-dom-confetti) - For the awesome effects.
+
+## Developers
+* [Jason Kam](https://github.com/thefiend)
