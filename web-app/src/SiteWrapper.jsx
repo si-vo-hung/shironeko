@@ -24,7 +24,10 @@ class SiteWrapper extends React.Component {
         headerProps={{
           href: "/",
           alt: "Random Draw",
-          imageURL: "images/luckydraw-logo.svg",
+          imageURL: "images/shibazono.png",
+          headerStyle: {
+            padding: '0 !important',
+          },
           navItems: (
             <Nav.Item type="div" className="d-none d-md-flex">
               <Button
@@ -43,13 +46,13 @@ class SiteWrapper extends React.Component {
         navProps={{ itemsObjects: navBarItems }}
         footerProps={{
           links: [],
-          note: "Lucky draw tool created to make drawing winners much easier.",
+          note: "Finding the winners.",
           copyright: (
             <React.Fragment>
               Copyright © 2019
               <a href="/"> Random Draw</a>. Powered by
               <a
-                href="https://jasys.xyz"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >
